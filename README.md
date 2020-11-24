@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 - 🔭 Discord Bot with Python
 -->
-[![Dipta's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/TheObligedDipta/github-readme-stats)
+[![Dipta's github stats](https://github-readme-stats.vercel.app/api?username=TheObligedDipta)](https://github.com/TheObligedDipta/github-readme-stats)
