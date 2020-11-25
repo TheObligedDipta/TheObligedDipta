@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 🔭 Discord Bot with Python
 -->
 [![Dipta's github stats](https://github-readme-stats.vercel.app/api?username=TheObligedDipta&show_icons=true&theme=tokyonight&count_private=true&show_owner&show_icons&line_height=20)](https://github.com/TheObligedDipta)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheObligedDipta&langs_count=5&theme=tokyonight&layout=compact&card_width=320)](https://github.com/TheObligedDipta)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheObligedDipta&langs_count=5&theme=tokyonight&layout=compact&card_width=310)](https://github.com/TheObligedDipta)
 ### My Projects
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=TheObligedDipta&repo=Project_Moment&theme=tokyonight)](https://github.com/TheObligedDipta/Project_Moment)
 
