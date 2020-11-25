@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 -->
 [![Dipta's github stats](https://github-readme-stats.vercel.app/api?username=TheObligedDipta&show_icons=true&theme=tokyonight)](https://github.com/TheObligedDipta/github-readme-stats)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheObligedDipta&langs_count=5)](https://github.com/TheObligedDipta/github-readme-stats)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=TheObligedDipta&repo=github-readme-stats)](https://github.com/TheObligedDipta/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=TheObligedDipta&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
