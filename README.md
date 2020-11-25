@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheObligedDipta&langs_count=5&theme=tokyonight&layout=compact&card_width=300)](https://github.com/TheObligedDipta)
 ### My Projects
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=TheObligedDipta&repo=Project_Moment&theme=tokyonight)](https://github.com/TheObligedDipta/Project_Moment)
-
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=TheObligedDipta&repo=AgriConnect&theme=tokyonight)](https://github.com/TheObligedDipta/AgriConnect)
