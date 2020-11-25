@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 - 🔭 Discord Bot with Python
 -->
-[![Dipta's github stats](https://github-readme-stats.vercel.app/api?username=TheObligedDipta&show_icons=true&theme=tokyonight&count_private=true&show_owner&card_width=1080)](https://github.com/TheObligedDipta)
+[![Dipta's github stats](https://github-readme-stats.vercel.app/api?username=TheObligedDipta&show_icons=true&theme=tokyonight&count_private=true&show_owner&card_width=2080)](https://github.com/TheObligedDipta)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheObligedDipta&langs_count=5&theme=tokyonight&layout=compact)](https://github.com/TheObligedDipta)
 
