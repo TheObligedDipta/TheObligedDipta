@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 🔭 Discord Bot with Python
 -->
 [![Dipta's github stats](https://github-readme-stats.vercel.app/api?username=TheObligedDipta&show_icons=true&theme=tokyonight)](https://github.com/TheObligedDipta/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/TheObligedDipta/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/TheObligedDipta/github-readme-stats)
