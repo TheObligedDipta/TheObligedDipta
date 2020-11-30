@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=TheObligedDipta&repo=Project_Moment&theme=tokyonight)](https://github.com/TheObligedDipta/Project_Moment)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=TheObligedDipta&repo=AgriConnect&theme=tokyonight)](https://github.com/TheObligedDipta/AgriConnect)
 
-<a href="https://stackoverflow.com/users/14735181/dipta"><img src="https://stackoverflow.com/users/flair/14735181.png" width="208" height="58" alt="profile for Dipta at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Dipta at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+<a href="https://stackoverflow.com/users/14735181/dipta"><img src="https://stackoverflow.com/users/flair/14735181.png" width="208" height="58" alt="profile for Dipta at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Dipta at Stack Overflow, Q&amp;A for professional and enthusiast programmers" ?theme=dark></a>
