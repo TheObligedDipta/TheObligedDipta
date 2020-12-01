@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 
 <a href="https://stackoverflow.com/users/14735181/dipta"><img src="https://stackoverflow.com/users/flair/14735181.png?theme=dark" width="208" height="58" alt="profile for Dipta at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Dipta at Stack Overflow, Q&amp;A for professional and enthusiast programmers" ></a>
 
-${your.username}.${your.repo.id}, https://visitor-badge.glitch.me/badge?page_id=TheObligedDipta.visitor-badge
+![visitors](https://visitor-badge.glitch.me/badge?page_id=TheObligedDipta)
